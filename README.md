@@ -1,7 +1,7 @@
 # python-projects
 # Project Portfolio
 
-This repository contains my solutions and personal adaptations for the **100 Days of Code: Python Bootcamp** on Udemy.  
+This repository contains my solutions and personal adaptations python projects.  
 The focus is on **project-based learning** — every folder contains a standalone project with its own README, code, and tests.
 
 ## 📂 Structure
