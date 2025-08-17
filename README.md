@@ -22,9 +22,3 @@ The focus is on **project-based learning** — every folder contains a standalon
 |-----|------------------------------------|---------------------------------------|
 | 001 | [Welcome Message Generator](./001/) | First warm-up CLI project             |
 | ... | ...                                | ...                                   |
-
-## 🔧 How to Run a Project
-1. Clone the repository:
-```bash
-git clone https://github.com/<your-username>/100-days-python-projects.git
-cd 100-days-python-projects
