@@ -17,8 +17,6 @@ The focus is on **project-based learning** — every folder contains a standalon
 - Build a diverse portfolio of real, working projects
 - Practice clean code, version control, and documentation
 
-## 📋 Project Index
-| #   | Project Title                      | Notes                                |
-|-----|------------------------------------|---------------------------------------|
-| 001 | [Welcome Message Generator](./001/) | First warm-up CLI project             |
-| ... | ...                                | ...                                   |
+#   Project Title                  Notes
+001  Welcome Message Generator     First warm-up CLI project
+002  Personalized Greeting Program CLI project asking user details and printing greeting
