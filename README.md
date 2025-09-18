@@ -26,3 +26,4 @@ The focus is on **project-based learning** — every folder contains a standalon
 | [003](003/) | Simple Calculator              | CLI calculator with basic operations                    |
 | [003.1](003.1/)| Book Tracker                | CLI app for adding, listing, marking, and deleting books (JSON storage)|
 | [004](004/) | Number Comparison Tool         | Compares two numbers and checks for zero. |
+| [005](005)  | Countdown Timer                | Simple timer that counts down from given seconds. |
