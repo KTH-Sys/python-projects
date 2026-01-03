@@ -29,7 +29,11 @@ scissors = '''
 
 choice = int(input("What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors. "))
 usage = [rock, paper, scissors]
-print(usage[choice])
+if 0 <= choice <= 2:
+    print(usage[choice])
+else:
+    print("Invalid Number!")
+    exit()
 
 comp_choice = random.randint(0,2)
 output = usage[comp_choice]
